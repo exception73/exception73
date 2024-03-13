@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gautam Buddh (exception73)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Gautam Khatri(exception73)</h1>
+<h3 align="center"> 2025 Graduate from a college in India. </h3>
 
 <p align="left"> <a href="https://twitter.com/gautamkhatri05" target="blank"><img src="https://img.shields.io/twitter/follow/gautamkhatri05?logo=twitter&style=for-the-badge" alt="gautamkhatri05" /></a> </p>
 
 
-
+- 🌱 600+ users on Crossfit **https://crossfit-front-gamma.vercel.app/**
+- 
 - 👨‍💻 About me :  [https://portfolio-six-mu-93.vercel.app/](https://portfolio-six-mu-93.vercel.app/)
 
 - 📫 How to reach me **buddhgautam777@gmail.com**

@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gautam Khatri(exception73)</h1>
 <h3 align="center"> 2025 CS Student.</h3>
 
-<p align="left"> <a href="https://twitter.com/gautamkhatri05" target="blank"><img src="https://img.shields.io/twitter/follow/gautamkhatri05?logo=twitter&style=for-the-badge" alt="gautamkhatri05" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=exception73&label=Profile%20views&color=0e75b6&style=flat" alt="exception73" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exception73" alt="exception73" /></a> </p>
 
 - 🌱 600+ users on my porject [Crossfit](https://crossfit-front-gamma.vercel.app/) and more than 2000+ diet and gym plan already generated.
   

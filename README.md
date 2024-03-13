@@ -5,14 +5,16 @@
 
 
 - 🌱 600+ users on Crossfit **https://crossfit-front-gamma.vercel.app/**
-- 
-- - 📈 Specialist on Codeforces, Knight on Leetcode [https://codeforces.com/profile/exception73](https://leetcode.com/exception73/)
+  
+-  📈 Specialist on [Codeforces] (https://codeforces.com/profile/exception73 )
 
-- 👨‍💻 About me :  [https://portfolio-six-mu-93.vercel.app/](https://portfolio-six-mu-93.vercel.app/)
+-  👑 Knight on [Leetcode] (https://leetcode.com/exception73/ )
+
+- 👨‍💻 About me :  [Portfolio](https://portfolio-six-mu-93.vercel.app/)
 
 - 📫 How to reach me **buddhgautam777@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-six-mu-93.vercel.app/static/media/cv.9735fbb8c90f7352df5a.pdf](https://portfolio-six-mu-93.vercel.app/static/media/cv.9735fbb8c90f7352df5a.pdf)
+- 📄 Know about my experiences [My Resume](https://portfolio-six-mu-93.vercel.app/static/media/cv.9735fbb8c90f7352df5a.pdf)
 
 - ⚡ Fun fact **I'm alive because of stackoverflow.**
 

@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/gautamkhatri05" target="blank"><img src="https://img.shields.io/twitter/follow/gautamkhatri05?logo=twitter&style=for-the-badge" alt="gautamkhatri05" /></a> </p>
 
 
-- 🌱 600+ users on Crossfit **https://crossfit-front-gamma.vercel.app/**
+- 🌱 600+ users on my porject [Crossfit](https://crossfit-front-gamma.vercel.app/) and more than 2000+ diet and gym plan already generated.
   
 -  📈 Specialist on [Codeforces](https://codeforces.com/profile/exception73 )
 

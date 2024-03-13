@@ -5,6 +5,8 @@
 
 
 - 🌱 600+ users on Crossfit **https://crossfit-front-gamma.vercel.app/**
+- 
+- - 📈 Specialist on Codeforces, Knight on Leetcode [https://codeforces.com/profile/exception73](https://leetcode.com/exception73/)
 
 - 👨‍💻 About me :  [https://portfolio-six-mu-93.vercel.app/](https://portfolio-six-mu-93.vercel.app/)
 

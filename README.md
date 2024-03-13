@@ -46,10 +46,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exception73&show_icons=true&locale=en&layout=compact" alt="exception73" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exception73&show_icons=true&locale=en" alt="exception73" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exception73&" alt="exception73" /></p>
-

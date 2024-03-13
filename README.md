@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/gautamkhatri05" target="blank"><img src="https://img.shields.io/twitter/follow/gautamkhatri05?logo=twitter&style=for-the-badge" alt="gautamkhatri05" /></a> </p>
 
-- 🔭 I’m currently working on **Video downloader projecrt**
 
-- 🌱 I’m currently learning **AWS and docker.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-six-mu-93.vercel.app/](https://portfolio-six-mu-93.vercel.app/)
+- 👨‍💻 About me :  [https://portfolio-six-mu-93.vercel.app/](https://portfolio-six-mu-93.vercel.app/)
 
 - 📫 How to reach me **buddhgautam777@gmail.com**
 

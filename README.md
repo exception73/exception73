@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [My Resume](https://portfolio-six-mu-93.vercel.app/static/media/cv.9735fbb8c90f7352df5a.pdf)
 
-- ⚡ Fun fact **I'm alive because of stackoverflow.**
+- ⚡ My life is **struggling between Dev and CP.**
 
 
 ### My Social Media Handles
